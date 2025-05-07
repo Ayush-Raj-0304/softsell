@@ -21,7 +21,7 @@ export const metadata = {
   openGraph: {
     title: "SoftSell | Sell Your Unused Software Licenses",
     description: "Turn your unused software licenses into cash with SoftSell's quick and easy valuation process.",
-    url: "https://softsell.vercel.app",
+    url: "https://softsell-ayush-raj-0304s-projects.vercel.app/",
     siteName: "SoftSell",
     type: "website",
   },
