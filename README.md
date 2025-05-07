@@ -121,3 +121,7 @@ This project demonstrates:
 - Rich UI interactions with Framer Motion
 - AI integration using Gemini APIs
 - Production-ready styling and layout
+
+
+## Time Spent
+From Mind To Live in 8 hrs
